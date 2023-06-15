@@ -1,0 +1,45 @@
+.info{
+    font-family: Cambria;
+}
+
+.greeting{
+    color: #068DA9;
+    font-family: Cambria;
+}
+
+.introduction{
+    color: #068DA9;
+    font-family: Cambria;
+    font-size: large;
+}
+
+img{
+    border-radius: 20px;
+    width: 250px;
+    height: 200px;
+}
+
+.profile{
+    color: #068DA9;
+    font-family: Cambria;
+    font-size: large;
+}
+
+button{
+    color: white;
+    font-style: bold;
+    font-family: Cambria;
+    font-size: large;
+    margin: 0.2px;
+    background-color: #068DA9;
+    border-radius: 5px;
+
+}
+
+.footer{
+    color: #068DA9;
+    font-family: Cambria;
+}
+
+
+
